@@ -11,5 +11,5 @@
 :id: 60ba6818-dada-4885-a047-1b3a099640a2
 :END:
 $$1, \sin x, \cos x, \sin 2x, \cos 2x, ..., \sin nx, \cos nx, ...$$
-*** *Theorem*: The [Youtube](https://www.google.com)
+*** *Theorem*: The
 ***
