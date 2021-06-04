@@ -1,4 +1,4 @@
 * Chapter 1
 :PROPERTIES:
-:background-color: #793e3e
+:heading: true
 :END:
