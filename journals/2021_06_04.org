@@ -3,7 +3,6 @@
 :END:
 * Tomorrow: [[Jun 5th, 2021]]
 * Ideas:
-** LATER Using Google Keep as the capture system in GTD
 :PROPERTIES:
-:later: 1622817475711
 :END:
+** Using Google Keep as the capture system in GTD
