@@ -1,0 +1,2 @@
+# Logseq
+Logseq notes
