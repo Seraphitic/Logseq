@@ -1,2 +1,2 @@
-# Logseq
-Logseq notes
+- Logseq
+  Logseq notes
