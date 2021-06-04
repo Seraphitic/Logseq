@@ -1,5 +1,4 @@
-:PROPERTIES:
-:title: Fourier Analysis
-:END:
+#+author: James White
 
+*
 *
