@@ -1,3 +1,0 @@
-* [[Fourier Analysis]]
-author:: James S. Walker
-publishing date:: 1988
