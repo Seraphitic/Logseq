@@ -1,5 +1,4 @@
 [[Fourier Analysis]]
-
 #+AUTHOR: James S. Walker
 #+ISBN: 0-19-504300-6
 #+PUBLISHING DATE: 1988
