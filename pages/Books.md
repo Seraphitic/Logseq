@@ -1,3 +1,3 @@
-- [[Fourier Analysis]]/tem 
+- [[Fourier Analysis]]
   author:: James S. Walker
 -
