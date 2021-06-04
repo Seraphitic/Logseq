@@ -6,4 +6,6 @@
 *** *Definition*: A function is /periodic/ with period $p$ if $f(x) = f(x+p), \forall x$
 *** *Theorem*: If function $f$ has a period $p$, then integer multiples of $p$ are also periods of $f$
 *** *Corollary*: The graph of $f$ shifted by $kp$ equals the original graph
-*** *Definition*: The /trigonometric system/, $p = \pi$, is the set of functions $$1, \sin x, \cos x, \sin 2x, \cos 2x, ...$$
+*** *Definition*: The /trigonometric system/, $p = \pi$, is the set of functions
+$$1, \sin x, \cos x, \sin 2x, \cos 2x, ..., \sin nx, \cos nx, ...$$
+***
