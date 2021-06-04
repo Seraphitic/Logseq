@@ -1,5 +1,5 @@
-* Using Google Keep as the capture system in GTD
-* Tomorrow[[Jun 5th, 2021]]
 * Yesterday: [[Jun 3rd, 2021]]
 :PROPERTIES:
 :END:
+* Tomorrow[[Jun 5th, 2021]]
+* Using Google Keep as the capture system in GTD
