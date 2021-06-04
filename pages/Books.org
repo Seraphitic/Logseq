@@ -1,4 +1,6 @@
 * [[Fourier Analysis]]
 :PROPERTIES:
+:AUTHOR: James S. Walker
+:
 *
 *
