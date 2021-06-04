@@ -2,7 +2,7 @@
  ;; This can overwrite your global preference so that
  ;; maybe your personal preferred format is Org but you'd
  ;; need to use Markdown for some projects.
- ;; :preferred-format ""
+ :preferred-format "Markdown"
 
  ;; Preferred workflow style.
  ;; Value is either ":now" for NOW/LATER style,
@@ -78,4 +78,6 @@
  :macros {}
 
  :markdown/version 2
- :preferred-format :markdown}
+ :preferred-format :markdown
+ :ui/show-brackets? false
+ :feature/enable-timetracking? false}
