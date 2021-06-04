@@ -5,4 +5,4 @@
 ** 1.1 Periodic Functions, Fourier Series on $(-\pi,\pi)$
 *** *Definition*: A function is /periodic/ with period $p$ if $f(x) = f(x+p), \forall x$
 *** *Theorem*: If function $f$ has a period $p$, then integer multiples of $p$ are also periods of $f$
-*** *Corollary*: The graph of $f$ shifted
+*** *Corollary*: The graph of $f$ shifted by $kp$ equals the original graph
