@@ -1,7 +1,7 @@
 * [[Fourier Analysis]]
 :PROPERTIES:
-:AUTHOR: James S. Walker
-:PUBLISHING DATE: 1988
+:Author: James S. Walker
+:Publishing Date: 1988
 :ISBN: 0-19-504300-6
 :END:
 *
