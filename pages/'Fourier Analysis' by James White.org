@@ -1,8 +1,5 @@
-*
 :PROPERTIES:
 :title: Fourier Analysis
-:author: James White
-:ISBN:
-:Date Published:
 :END:
+
 *
