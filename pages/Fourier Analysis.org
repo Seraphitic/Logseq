@@ -3,5 +3,5 @@
 :heading: true
 :END:
 ** 1.1 Periodic Functions, Fourier Series on $(-\pi,\pi)$
-*** *Definition*
+*** *Definition*: A function is /periodic/ with period $p$ if $f(x) = f(x+p) \forall x$
 ***
