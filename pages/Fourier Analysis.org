@@ -2,4 +2,6 @@
 :PROPERTIES:
 :heading: true
 :END:
-**
+** 1.1 Periodic Functions, Fourier Series on $(-\pi,\pi)$
+*** *Definition*
+***
