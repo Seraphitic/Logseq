@@ -1,0 +1,3 @@
+:PROPERTIES:
+:title: Fourier Analysis - by James White
+:END:
