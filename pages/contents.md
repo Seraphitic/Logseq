@@ -1,1 +1,9 @@
--
+- [[Books]]
+- Workflow
+	- [[TODO]]
+	- [[DOING]]
+	- [[DONE]]
+	- [GTD](https://keep.google.com)
+	- [Calendar](https://calendar.google.com)
+	- [Files](https://drive.google.com)
+	- [Mail](https://mail.google.com)
