@@ -1,0 +1,30 @@
+- Notes
+	- How to live a life that you were meant to live
+		- Hard to find the life we're meant to live
+	- Ability to hear kids crying
+		- Attuned to their voices
+		- Attune our ears to God's voice
+		- Wisdom is not 'smart'; it's knowing what is right and wrong; the skill of godly living
+	- Wisdom is sourced from God himself
+		- Wisdom is not from
+			- Experience
+			- Reading
+		- Has to be from an encounter with the living God
+			- Taking a video of a waterfall vs standing under the waterfall
+			- Can't know God without 'stanfing under the waterfall'
+		- Should give us humility and hesitance in giving other people wisdom.
+			- We tend to be know-it-alls; drives non-believers away
+			- Part of wisdom is knowing to be humble
+			- If we've encountered the living God we know the extent of our sin. We should be gentle with those around us
+		- We don't reach a point where we need God's wisdom less; we constantly need more.
+	- Ways to experience God; grow our wisdom
+		- The Bible
+			- 'Broccoli from the sky'
+			- Personal devotion
+		- Corporate worship
+			- How people have always encountered God.
+		- God isn't asking for your 15min devotion; He's asking for your life
+		- The Bible isn't a test of your faithfulness, it's a testament to His faithfulness
+		- Spiritual, godly mentors
+			- Often trace our most significant times of spiritual growth to a person
+			- Truly spiritual, godly people know exactly what it's like to have failings and sins
