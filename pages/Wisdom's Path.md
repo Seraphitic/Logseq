@@ -29,4 +29,9 @@
 			- Often trace our most significant times of spiritual growth to a person
 			- Truly spiritual, godly people know exactly what it's like to have failings and sins
 		- There is no such thing as spiritual growth outside of the context of others
-		- What will it look like?
+	- What will it look like?
+		- Falling in love with a God who has shown His love for you
+		- Jesus moved towards those who were messed up
+			- He made them feel loved and cherished
+			- His wisdom did not drive him away from others, but towards them
+			- People who need help the most won't come to the place where help is found because they think they aren't good enough.
