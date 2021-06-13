@@ -28,3 +28,5 @@
 		- Spiritual, godly mentors
 			- Often trace our most significant times of spiritual growth to a person
 			- Truly spiritual, godly people know exactly what it's like to have failings and sins
+		- There is no such thing as spiritual growth outside of the context of others
+		-
