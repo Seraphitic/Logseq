@@ -1,0 +1,4 @@
+- Speaker - Marty Lobdell
+- [Link](https://youtu.be/IlU-zDU6aQ0)
+- Notes
+	-
