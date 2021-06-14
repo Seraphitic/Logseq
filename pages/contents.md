@@ -1,4 +1,5 @@
 - [[Books]]
+- [[Videos]]
 - Workflow
 	- [[TODO]]
 	- [[DOING]]

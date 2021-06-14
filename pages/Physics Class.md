@@ -1,0 +1,5 @@
+- Units
+- Labs
+- Assessments
+- Class Structure
+- Philosophy

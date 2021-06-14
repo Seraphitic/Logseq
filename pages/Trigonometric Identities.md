@@ -1,3 +1,4 @@
+- #math #trigonometry
 - Negative Angle
   $$\sin(-\theta) = -\sin\theta$$
   $$\cos(-\theta) = \cos(\theta)$$
