@@ -52,9 +52,17 @@
 		- **Definition**: Let $f$ be a function defined on some interval of length $2a$. The _periodic extension_ of $f$ is the function $f_P$ which satisfies for $p=2a$
 		  $$f_P(x+kp) = f(x)$$
 			- _Note_: The [Fourier series](((60c38811-917b-40ed-b07e-c79c33055133))) of $f$ and $f_P$ are identical
-		-
 	- 1.3 Cosine and Sine Series
-		-
+		- **Definition**: The _cosine series_ of an even function is defined as:
+			-
+			  $$f = \frac{1}{2}A_0 + \sum^{\infty}_{n=1} A_n \cos \frac{n\pi x}{a}$$
+			-
+			  $$A_n = \frac{2}{a}\int^a_0 f(x) \cos \frac{n\pi x}{a} \; dx$$
+		- **Definition**: The _sine series_ of an odd function is defined as:
+			-
+			  $$f = \sum^{\infty}_{n=1} B_n \sin \frac{n\pi x}{a}$$
+			-
+			  $$B_n = \frac{2}{a}\int^a_0 f(x) \sin \frac{n\pi x}{a} \; dx$$
 	- 1.4 Convergence of Fourier Series
 	- 1.5 Uniform Convergence
 	- 1.6 Abel's Test
