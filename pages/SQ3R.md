@@ -1,0 +1,9 @@
+- Survey, Skim, or Scan
+	- Take ~ 3-5 minutes to skim the chapter to be read. Note headings, subheadings, diagrams, tables, other things that look like they're of importance.
+- Question
+	- Formulate questions using the brief skim that was just done. These can be specific to the chapter (such a definitions of specific keywords), or they can be general (such as asking what the point of the chapter is or how it fits into the overall topic). Write down what these questions on a separate sheet of paper.
+- Read
+	- Read through the material actively. This means that you are reading to answer the list of questions that you've just made.
+- Recite
+	- Close the book and remove any reminders of what you've just read. Recite (either orally or using another piece of paper) what the main points of the
+- Review

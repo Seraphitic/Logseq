@@ -1,0 +1,6 @@
+- Know
+	- Write down the things that are known about the subject.
+- Want to Know
+	- Write down the questions that the student(s) have and want to know about the subject.
+- Learned
+	- Write down the things that the student(s) learned about the subject.
