@@ -1,0 +1,74 @@
+- What is my why?
+	- I want to become more attractive to my wife
+	- I want to get stronger
+	- I want to be admired
+	- I want to break the trend of me being unable to gain weight
+- The car we have now is the only one we can have for the rest of our lives
+	- We'd take really good care of that car
+	- That car is our body
+- Macronutrients
+	- Nutrition
+		- Not a diet
+		- Something sustainable for a lifetime
+	- Most people undereat
+		- Undereating can make your metabolism slow by 30%
+		- Generally look worse when undereating
+	- Pyramid of Importance
+		- Calories
+		- Macros
+		- Nutrient timing
+		- Supplements
+	- Diets
+		- Hypocaloric diet
+		  Eating less than you burn; will lose both muscle and fat
+		- Hypercaloric diet
+		  Eating more than you burn; will gain both muscle and fat
+	- **Not one size fits all**
+	- Protein
+		- 0.3g/lb of body weight
+	- Carbohydrates
+		- Active energy source
+		- 0.5g/lb of body weight
+		- Train harder and recover faster
+		- Simple vs Complex
+			- Simple: fast digest (fruit; right before workout)
+			- Complex: slow digest (fiber; after workout)
+	- Fats
+		- No impact on performance
+		- Energy source when least active
+		- Can't be made by your body; must be consumed
+		- Slow digest
+		- Bad for post-workout
+	- Timing
+		- Eat every 3-4 hours
+		- Long duration of not eating will result in muscle breakdown
+		- Eat until 80% full
+		- 20 minutes to eat; go on a date with your food
+		- Should go into maintenance mode
+	- **Don't be upset by the results you didn't get from the work you didn't do.**
+	- Plan of Attack
+		- 4 Circles
+			- Outcome:
+				- Gain 50 lbs
+			- **This month** I will:
+				- Gain 5 lbs
+				- Eat something at every meal
+				- Take a picture of self to track
+			- **This week** I will:
+				- Go to the gym every day
+			- **Today** I will:
+				- Eat 2000 Calories today
+		- 3 Things to be consistent with
+			- Go to gym 6 times a week
+			- Plan meals
+			- Prep food
+		- Food journalling
+		- Take 3-6 months to reap all benefits
+		- Food is fuel
+- Question
+	- How many meals?
+		- ~ 5-6 meals
+	- How many cal/meal
+		- ~ 500 for meal and ~ 300 for snack
+	- Food vs protein powder
+		- No more than 2 shakes per day
