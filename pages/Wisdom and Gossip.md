@@ -1,0 +1,44 @@
+- What is Gossip?
+	- Not just talking about somebody
+	- Becomes gossip
+		- The delight we take
+			- Hate = ill-will toward someone
+			- Conceal our hate around someone until we're around someone else
+		- The destruction you create
+			- The design behind your words
+			- Gossip never has the intention of redeeming someone's life
+	- Gossip is pornography of the mouth; using someone as an object for self-pleasure
+	- Casual delight in unintentionally tearing someone's life to pieces
+- Why are we so prone to it?
+	- Choice morsels
+		- They have an addictive nature; almost like a drug
+		- Go down to the inmost parts; someone's place of intimacy (bedroom)
+			- We have an intimate place in our soul with a hole in it that is currently empty
+			- We turn to gossip to fill it
+	- We have a need to fill our soul-hole and so we turn to sin.
+- What can we do?
+	- Hold our tongue
+		- Trying to get 'justice' when someone wrongs you, so we gossip
+			- Proverbs says that we aren't solving the problem; we're adding fuel
+		- We are sure that we can put out the fire with gas
+		- Holding our tongue is actually what solves the problem
+			- The language implies forgiveness
+			- Look at the person who wounded you and, instead of making them pay for it, you pay for it.
+			- The bill doesn't go away, it's just picked up by a wiser person
+	- Speak the truth in love
+		- We think that the people who are truly my friends are the people who always affirm me
+			-
+			  >A friend is someone who will stab you from the front
+		- If you have someone who will say something hard and true about you, that trains you
+		- If you struggle with gossip you need to train to have hard talk with people
+			- It will bring you closer to the people you need to be close to
+- What should our response to gossip be?
+	- God is just as bothered by our hate and desire to spread gossip as the thing that hurt us.
+	- We can't just turn to mechanical efforts to hold our tongue and speak truth
+	- We desire to put ourself in God's place
+		- The gospel is begging you to trust in the finished work on the cross
+	- Jesus embodied these proverbs uniquely
+		- Jesus intercedes for us with the Father
+	- We are being opened up to the freedom of what real freedom and intimacy is.
+	- The opposite of gossip are words of life
+		- Stillborn child's loss turned around by words of encouragement and life
