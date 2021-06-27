@@ -1,0 +1,37 @@
+- Notes:
+	- Who's wisdom do we listen to?
+	- Fire/car alarm not believed
+		- What's going on in this passage is that people aren't understanding the alarms going off.
+		- We just don't care about the alarms going off in God's word.
+		- Wisdom - the skill of godly living
+		- Obedience
+			- Nobody likes the word; we don't want to be told what to do
+	- Danger of disobedience: forgetting and growing cold (v.1-4)
+		- The people of God have a history of forgetting
+		- We rehearse the things we shouldn't; our mistakes and shame
+		- We don't rehearse what we should; God's faithfulness and love
+		- Joshua and the crossing of the Jordan
+			- Stones placed to remember meaning and God's faithfulness
+	- Danger of disobedience: self-sufficient and self-selective (v.5-8)
+		- Those who are mature are more reliant on God, not less
+		- The feeling of faith is not strength, but weakness
+		- More of God and less of me
+		- Can't select areas where we trust or don't trust God
+			- Selective dependence leads to selective obedience
+	- Danger of disobedience: becoming selfish (v.9-10)
+		- Everything is given to us anyway
+	- Danger of disobedience: struggle with reproof (v.11-12)
+		- That is exactly what God's people are supposed to feel.
+		- We don't want to do the things that God wants us to do
+	- The Results of Obedience
+		- A full and promised life; not prosperity, but the life we were created to have.
+		- The gift of obedience is growing in the skill of godly living.
+		- We think obedience is boring
+			- Have to reframe the way we think about obedience.
+			- Follow God not because we have to but because we get to.
+			- Know that no matter what, God is enough for me.
+		- All of Wisdom's ways are peace; life working how it should (though not always the way we would like it)
+		- Wisdom is a tree of life
+			- Believe what God says, unlike Adam and Eve
+		- Jesus' life for ours
+- Application:
