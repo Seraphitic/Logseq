@@ -1,4 +1,5 @@
 - #book #education #classroom
+
 - A. Basic Understandings - The Teacher
 	- Why You Need to Succeed on the First Days of School
 		- Spend time at the front end teaching students the classroom procedures and how to manage their learning. ~ 2 weeks

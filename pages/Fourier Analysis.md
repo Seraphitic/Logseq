@@ -1,4 +1,5 @@
 - #book #math #analysis #calculus
+
 - Chapter 1: Introduction to Fourier Series
   heading:: true
 	- 1.1 Periodic Functions, Fourier Series on $(-\pi, \pi)$
