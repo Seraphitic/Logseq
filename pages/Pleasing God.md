@@ -1,0 +1,52 @@
+- Notes:
+	- This passage is about how to please God
+	- Sayings that stick with you
+		- "Faith is blind trust"; "Faith is a leap in the dark"
+		- What is Faith? Just misplaced trust?
+		- We have a crisis of faith in this modern culture
+		- Hebrews was a book to people in crisis
+	- What is Faith:
+		-
+		  >The assurance of things hoped for and the conviction of things not seen
+		- The _reality_ of things hoped for, _proof_ of things not seen
+			- Science teacher assumed that things that are seen are real and things that aren't seen is not real.
+		- Faith's foundation is the word of God
+			- The beginning of the book of Hebrews starts like that
+		- Seeing vs blindness
+			- Faith is seeing what others cannot
+			- Seeing the reality of things.
+		- Unafraid of questions
+			- Faith is not cowering from questions
+			- Faith follows the truth
+			- Faith knows that the word of God will give the true answers to those questions
+		- The fool shuts his eyes and ears to God and pretends that God doesn't exist.
+			- Believers do this too by setting out for their own purposes
+			- Need faith from God
+	- What Faith does
+		- Faith is active and wants to draw near to God.
+			- The most fundamental thing is knowing God exists
+			- He is Creator
+			- He is Sustainer
+			- He is Savior
+				- He _forgives_ sin by making purification.
+		- We aren't worthy of this faith
+		- Examples:
+			- Abel was a man of faith
+			  waiting:: 1625414363848
+				- Waiting for a time, unseen, for when a person would come to make atonement
+			- Enoch
+				- Made God his North Star
+				- God rewarded Enoch and Enoch pleased God
+	- What Faith receives
+		- God is a generous giver of gifts
+		- To be with Christ forever
+		- To be like him
+		- To be part of God's house
+		- The prospect is held out in scripture that we can please God.
+		- Noah knew the world would be destroyed; we know the same. We must respond like Noah.
+			- Search me and know me... Lead me in the way everlasting
+			- I believe, help my unbelief.
+- NOW Application:
+  todo:: 1625414031417
+  now:: 1625414042866
+	-
