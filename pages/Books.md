@@ -9,3 +9,5 @@
 - [[Secrets of Practical Chess]]
   author:: #John Nunn
 - [[Tensor Calculus]]
+- [[Getting Things Done]]
+  author:: David Allen
