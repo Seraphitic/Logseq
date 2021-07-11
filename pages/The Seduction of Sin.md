@@ -1,4 +1,4 @@
-# Notes:
+Notes:
 	- What are our specific temptations?
 	- Jared and his personal struggles with pornography.
 		- Think of certain temptations as tied to seasons of life.
@@ -40,6 +40,6 @@
 			- We need to think about what we think about
 		- We are all laid low.
 			- Jesus gave us his perfect record.
-# LATER Application:
+LATER Application:
 later:: 1626018692113
 todo:: 1626018679764
